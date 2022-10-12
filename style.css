@@ -1,0 +1,33 @@
+#section_1
+{
+    background-color: rgb(2, 38, 129);
+}
+#column_1
+{
+    margin-top: 10%;
+}
+#column_2
+{
+    border: 0.5px solid rgba(2, 2, 102, 0.463);
+    border-radius: 50%;
+    background-color: rgba(2, 2, 102, 0.463);
+    padding-top: 10%;
+    margin-top: 2%;
+}
+.text
+{
+    font-weight: 700;
+    color: #343b6d;
+}
+#link1
+{
+   
+    text-decoration: none;
+    font-size: 1.5em;
+}
+.circleimage
+{
+    border-radius: 50%;
+}
+
+   
